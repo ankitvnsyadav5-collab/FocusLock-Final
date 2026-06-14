@@ -1,4 +1,6 @@
+
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.FocusLock" parent="android:Theme.Material.NoTitleBar" />
+    <style name="Theme.FocusLock" parent="Theme.AppCompat.Light.NoActionBar" />
 </resources>
