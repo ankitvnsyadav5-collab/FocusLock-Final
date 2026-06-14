@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_label">FocusLock App Blocker</string>
+    <string name="accessibility_service_description">FocusLock uses the Accessibility Service to detect and block distracting apps during focus sessions.</string>
+</resources>
