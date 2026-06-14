@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+# DO NOT ignore google-services.json — 
+# it's a placeholder; real one comes from GitHub Secret in CI
+# app/google-services.json
+*.keystore
+*.jks
+/app/focuslock.jks
